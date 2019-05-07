@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repo provides a script to reproduce a forest plot of MR results in Supplementary Fig. 7 ([Kanai, M. *et al*., *Nat. Genet.* 2018](http://dx.doi.org/10.1038/s41588-018-0047-6)).
+This repo provides a script to reproduce a forest plot of Mendelian randomization results in Supplementary Fig. 7 ([Kanai, M. *et al*., *Nat. Genet.* 2018](http://dx.doi.org/10.1038/s41588-018-0047-6)).
 
 <p align="center"><img src="http://mkanai.github.io/img/Kanai2018_SFig7.svg" width="640px"></p>
 
